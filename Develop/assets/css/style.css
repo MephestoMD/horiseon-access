@@ -24,6 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/* Condensed unordered list styling and some heading styling into one element to handle the styling for the list of links */
 ul {
     padding-top: 15px;
     margin-right: 20px;
@@ -83,6 +84,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Created semantic element <article> to increase accessibility and to handle the three previously redundant non-semantic elements and created a new class, article-item, to handle their styling  */
 .article-item {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,24 +94,31 @@ p {
     color: #ffffff;
 }
 
+/* Condensed the styling for each image into one class-element styling block using newly created class article-item */
 .article-item img {
     max-height: 200px;
 }
 
+/* Condensed the styling for the h2 elements into one styling block using newly created class article-item */
 .article-item h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Created a new class, aside-item, to handle the styling for the newly created <aside> semantic element to increase accessibility */
+/* Condensed the previously redundant styling blocks into one */
 .aside-item {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Condensed previously redundant styling blocks into one for the <aside> h3 content */
 .aside-item h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Condensed the previously redundant styling blocks into one for the <aside> images */
 
 .aside-item img {
     display: block;
