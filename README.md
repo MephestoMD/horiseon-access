@@ -17,9 +17,9 @@ While visually appealing, the webpage in its initial form was lacking in semanti
 
 ### < header > tag replaced < div > tags here:
 
-```md
+
 ![Header and Navigation](/Develop/assets/images/Header.png)
-```
+
 
 ### < section > container was used to hold each of the following three items and < article > tags were used for each individual item (where previously < div > tags had been used):
 
