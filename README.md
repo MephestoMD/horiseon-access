@@ -1,6 +1,6 @@
 # Horiseon Accessibility Project
 
-<a href="https://mephestomd.github.io/horiseon-access/">Horiseon Accesibility</a>
+<a href="https://mephestomd.github.io/horiseon-access/">Horiseon Accessibility</a>
 
 *Optimizing an application for accessibility*
 
