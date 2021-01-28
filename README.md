@@ -15,13 +15,16 @@ While visually appealing, the webpage in its initial form was lacking in semanti
 
 ## Usage
 
-### < header > tag replaced < div > tags here:
+The following will give examples and screenshots of where the non-semantic < div > tags were replaced with properly semantic tags:
+
+
+< header > tag replaced < div > tags here:
 
 
 ![Header and Navigation](/Develop/assets/images/Header.PNG)
 
+< section > container was used to hold each of the following three items and < article > tags were used for each individual item (where previously < div > tags had been used):
 
-### < section > container was used to hold each of the following three items and < article > tags were used for each individual item (where previously < div > tags had been used):
 
 ![Search Engine Optimization](/Develop/assets/images/SEO.PNG)
 
@@ -29,7 +32,8 @@ While visually appealing, the webpage in its initial form was lacking in semanti
 
 ![Social Media Marketing](/Develop/assets/images/SMM.PNG)
 
-### < aside > container used for the aside element of the application, again in place of < div > tags:
+< aside > container used for the aside element of the application, again in place of < div > tags:
+
 
 ![Aside](/Develop/assets/images/Aside.PNG)
 
