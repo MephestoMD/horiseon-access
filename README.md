@@ -18,7 +18,7 @@ While visually appealing, the webpage in its initial form was lacking in semanti
 The following will give examples and screenshots of where the non-semantic < div > tags were replaced with properly semantic tags:
 
 
-< header > tag replaced < div > tags here:
+**< header >** tag replaced **< div >** tags here:
 
 
 ![Header and Navigation](/Develop/assets/images/Header.PNG)
