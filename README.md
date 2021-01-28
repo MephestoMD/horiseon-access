@@ -40,10 +40,21 @@ The following will give examples and screenshots of where the non-semantic **< d
 ## Credits
 
 <ul>
-    <li>Valerie Flores - Mentor and tutor || <a href="https://github.com/valeriemiller5">Github</a></li>
-    <li>Guillermo Barila - General Github support || <a href="https://github.com/gui365">Github</a></li>
-    <li>Samuel Maddox - General CSS support || <a href="https://github.com/SamuelMaddox">Github</a></li>
-    <li>Tutorial on semantic HTML || <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">w3schools.com</a>
+<li>
+Valerie Flores - Mentor and tutor || <a href="https://github.com/valeriemiller5">Github</a>
+</li>
+
+<li>
+Guillermo Barila - General Github support || <a href="https://github.com/gui365">Github</a>
+</li>
+
+<li>
+Samuel Maddox - General CSS support || <a href="https://github.com/SamuelMaddox">Github</a>
+</li>
+
+<li>
+Tutorial on semantic HTML || <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">w3schools.com</a>
+</li>   
 </ul>
 
 ## License
