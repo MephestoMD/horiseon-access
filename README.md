@@ -18,24 +18,20 @@ While visually appealing, the webpage in its initial form was lacking in semanti
 ### < header > tag replaced < div > tags here:
 
 ```md
-![Header and Navigation](Develop/assets/images/Header.png)
+![Header and Navigation](Develop\assets\images\Header.png)
 ```
 ### < section > container was used to hold each of the following three items and < article > tags were used for each individual item (where previously < div > tags had been used):
 
-```md
-![Search Engine Optimization](Develop/assets/images/SEO.png)
-```
-```md
-![Online Reputation Management](Develop/assets/images/ORM.png)
-```
-```md
-![Social Media Marketing](Develop/assets/images/SMM.png)
-```
+![Search Engine Optimization](Develop\assets\images\SEO.png)
+
+![Online Reputation Management](Develop\assets\images\ORM.png)
+
+![Social Media Marketing](Develop\assets\images\SMM.png)
+
 ### < aside > container used for the aside element of the application, again in place of < div > tags:
 
-```md
+
 ![Aside](Develop/assets/images/Aside.png)
-```
 
 
 
