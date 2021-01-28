@@ -11,11 +11,11 @@ Semantic elements make a web application easier to work with, both for the visua
 
 ## Method
 
-While visually appealing, the webpage in its initial form was lacking in semantic HTML elements, opting to use < div > elements in many places where tags such as < section >, < header >, < article > would be more suitable to provide better semantic structure. These < div > elements were replaced with the aforementioned semantic elements where appropriate. In addition, much of the CSS styling contained redundant code which, after being condensed, will allow for future developers to more easily update their content. 
+While visually appealing, the webpage in its initial form was lacking in semantic HTML elements, opting to use **< div >** elements in many places where tags such as **< section >**, **< header >**, **< article >** would be more suitable to provide better semantic structure. These **< div >** elements were replaced with the aforementioned semantic elements where appropriate. In addition, much of the CSS styling contained redundant code which, after being condensed, will allow for future developers to more easily update their content. 
 
 ## Usage
 
-The following will give examples and screenshots of where the non-semantic < div > tags were replaced with properly semantic tags:
+The following will give examples and screenshots of where the non-semantic **< div >** tags were replaced with properly semantic tags:
 
 
 **< header >** tag replaced **< div >** tags here:
@@ -23,7 +23,7 @@ The following will give examples and screenshots of where the non-semantic < div
 
 ![Header and Navigation](/Develop/assets/images/Header.PNG)
 
-< section > container was used to hold each of the following three items and < article > tags were used for each individual item (where previously < div > tags had been used):
+**< section >** container was used to hold each of the following three items and **< article >** tags were used for each individual item (where previously **< div >** tags had been used):
 
 
 ![Search Engine Optimization](/Develop/assets/images/SEO.PNG)
@@ -32,7 +32,7 @@ The following will give examples and screenshots of where the non-semantic < div
 
 ![Social Media Marketing](/Develop/assets/images/SMM.PNG)
 
-< aside > container used for the aside element of the application, again in place of < div > tags:
+**< aside >** container used for the aside element of the application, again in place of **< div >** tags:
 
 
 ![Aside](/Develop/assets/images/Aside.PNG)
