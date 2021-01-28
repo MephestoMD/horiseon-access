@@ -11,5 +11,5 @@ Semantic elements make a web application easier to work with, both for the visua
 
 ## Method
 
-While visually appealing, the webpage in its initial form lacked semantic HTML elements, opting to use 'div' elements in many places where &ltsection&gt, 'header', 'article', etc., would be more suitable to provide better semantic structure. These 'div' elements were replaced with aforementioned semantic elements where appropriate. In addition, much of the CSS styling contained redundant code which, when condensed, allows for future developers to more easily update their content. 
+While visually appealing, the webpage in its initial form was lacking in semantic HTML elements, opting to use <div> elements in many places where <section>, <header>, <article>, etc.would be more suitable to provide better semantic structure. These <div> elements were replaced with the aforementioned semantic elements where appropriate. In addition, much of the CSS styling contained redundant code which, after being condensed, will allow for future developers to more easily update their content. 
 
